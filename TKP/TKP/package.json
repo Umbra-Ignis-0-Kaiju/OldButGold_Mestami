@@ -1,0 +1,9 @@
+{
+  "name": "tkp",
+  "version": "0.0.0",
+  "description": "TKP",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

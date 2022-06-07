@@ -1,0 +1,6 @@
+﻿  11.cpp
+C:\Users\Kinjen\source\repos\OOP\Lab№7\Lab№7\11.cpp(27,12): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\Kinjen\source\repos\OOP\Lab№7\Lab№7\11.cpp(28,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kinjen\source\repos\OOP\Lab№7\Lab№7\11.cpp(29,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kinjen\source\repos\OOP\Lab№7\Lab№7\11.cpp(193,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab№7.vcxproj -> C:\Users\Kinjen\source\repos\OOP\Lab№7\x64\Debug\Lab№7.exe
